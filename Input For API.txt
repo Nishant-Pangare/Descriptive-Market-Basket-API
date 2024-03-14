@@ -1,0 +1,8 @@
+{
+  "filePath": "Descriptive API\\Final Descriptive API\\Online Retail.xlsx",
+  "country": "France",
+  "invoiceColumn": "InvoiceNo",
+  "itemColumn": "Description",
+  "minSupport": 0.1,
+  "minThreshold": 0.5
+}
