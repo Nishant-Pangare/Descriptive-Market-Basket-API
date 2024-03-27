@@ -56,4 +56,4 @@ def generate_rules():
 
 # Run the API
 if __name__ == '__main__':
-    app.run(debug=True)  # Adjust for production deployment
+    app.run(debug=True,port=3000)  # Adjust for production deployment
