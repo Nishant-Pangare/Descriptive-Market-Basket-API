@@ -1,5 +1,5 @@
 {
-  "filePath": "Descriptive API\\Final Descriptive API\\Online Retail.xlsx",
+  "filePath": "C:\\Users\\HP\\Downloads\\Online Retail.xlsx",
   "country": "France",
   "invoiceColumn": "InvoiceNo",
   "itemColumn": "Description",
