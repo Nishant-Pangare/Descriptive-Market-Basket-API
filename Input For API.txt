@@ -1,5 +1,5 @@
 {
-  "filePath": "C:\\Users\\HP\\Downloads\\Online Retail.xlsx",
+  "filePath": "/app/Online Retail.xlsx",
   "country": "France",
   "invoiceColumn": "InvoiceNo",
   "itemColumn": "Description",
